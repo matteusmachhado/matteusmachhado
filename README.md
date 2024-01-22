@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mateus Machado</h1>
-<h3 align="center">A passionate developer full stack from Brazil</h3>
 
 - 🔭 I’m currently working on [Siemens Energy](https://www.linkedin.com/company/siemens-energy)
 
